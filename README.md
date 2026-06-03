@@ -59,7 +59,7 @@
 - `表层链`：公开言论、行为、立场、表达
 - `深层链`：驱动力、恐惧、防御、未说出的假设
 
-这套协议定义在 [references/extraction-protocol.md](/Users/if/dev/github/claude_gene_skill/gene-skill/references/extraction-protocol.md)。
+这套协议定义在 [references/extraction-protocol.md](references/extraction-protocol.md)。
 
 ### 3. 多源研究
 
@@ -85,7 +85,7 @@
 - 情境激活逻辑
 - 面向 AI 的使用说明
 
-模板位于 [references/genome-template.md](/Users/if/dev/github/claude_gene_skill/gene-skill/references/genome-template.md)。
+模板位于 [references/genome-template.md](references/genome-template.md)。
 
 ## 仓库结构
 
@@ -109,16 +109,16 @@ gene-skill/
 
 建议按这个顺序：
 
-1. 先看 [SKILL.md](/Users/if/dev/github/claude_gene_skill/gene-skill/SKILL.md)
+1. 先看 [SKILL.md](SKILL.md)
 理解完整工作流、三种操作路由和产出标准。
 
-2. 再看 [references/extraction-protocol.md](/Users/if/dev/github/claude_gene_skill/gene-skill/references/extraction-protocol.md)
+2. 再看 [references/extraction-protocol.md](references/extraction-protocol.md)
 理解“双链提取”为什么是这个项目的核心差异。
 
-3. 接着看 [references/creation-algorithm.md](/Users/if/dev/github/claude_gene_skill/gene-skill/references/creation-algorithm.md)
+3. 接着看 [references/creation-algorithm.md](references/creation-algorithm.md)
 如果你关心多人格融合、加权合并、概念造人，这里是关键。
 
-4. 最后看示例 [examples/qin-shi-huang-genome/GENOME.md](/Users/if/dev/github/claude_gene_skill/gene-skill/examples/qin-shi-huang-genome/GENOME.md)
+4. 最后看示例 [examples/qin-shi-huang-genome/GENOME.md](examples/qin-shi-huang-genome/GENOME.md)
 这是目前最直观的完整输出样例。
 
 ## 一个典型产出流程
@@ -134,15 +134,15 @@ gene-skill/
 
 相关规则分别定义在：
 
-- [SKILL.md](/Users/if/dev/github/claude_gene_skill/gene-skill/SKILL.md)
-- [references/extraction-protocol.md](/Users/if/dev/github/claude_gene_skill/gene-skill/references/extraction-protocol.md)
-- [references/ethics-boundary.md](/Users/if/dev/github/claude_gene_skill/gene-skill/references/ethics-boundary.md)
+- [SKILL.md](SKILL.md)
+- [references/extraction-protocol.md](references/extraction-protocol.md)
+- [references/ethics-boundary.md](references/ethics-boundary.md)
 
 ## 示例
 
 当前仓库附带了一个完整样例：
 
-- [examples/qin-shi-huang-genome/GENOME.md](/Users/if/dev/github/claude_gene_skill/gene-skill/examples/qin-shi-huang-genome/GENOME.md)
+- [examples/qin-shi-huang-genome/GENOME.md](examples/qin-shi-huang-genome/GENOME.md)
 
 这个示例展示了：
 
@@ -160,7 +160,7 @@ gene-skill/
 - 不应用于攻击、操纵或未经请求的暴露
 - 对用户本人测序时，需要额外的知情确认
 
-详见 [references/ethics-boundary.md](/Users/if/dev/github/claude_gene_skill/gene-skill/references/ethics-boundary.md)。
+详见 [references/ethics-boundary.md](references/ethics-boundary.md)。
 
 ## 适合谁
 
